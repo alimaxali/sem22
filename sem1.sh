@@ -119,7 +119,7 @@ echo -e '        "$$$$$$"   '$cyan'  [90]helpℹ️ '$blue'   \||/   '
 echo '          $$$$                     \/       '
 sleep 0.1
 echo -e "               $bluo p $green a $reset y $purple l $cyan o $yellow a $green d"
-chat2
+
 echo -e " $ggg+__________________________________________________+$gggg"
 echo -e "$g $ggg |$gggg $p [$y 1$p ]$c root     $p [$y 2$p ]$c wifi     $p [$y 3$p ]$c spammer $ggg |$gggg"
 echo -e "$g $ggg |$gggg $p [$y 4$p ]$c facebook $p [$y 5$p ]$c liunx    $p [$y 6$p ]$c camera  $ggg |$gggg"
